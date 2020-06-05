@@ -4,6 +4,9 @@ The dataset is taken from the thesis of Nabeela Barbari titled `Reconsidering CV
 
 ![Barplot of main topic words in articles](barplot_topic_words.png)
 
+## Topics of Articles
+
+![Topics of articles](topics.png)
 
 Resources:
 https://apps.dtic.mil/dtic/tr/fulltext/u2/1069482.pdf
