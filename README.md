@@ -8,6 +8,13 @@ The dataset is taken from the thesis of Nabeela Barbari titled `Reconsidering CV
 
 ![Topics of articles](topics.png)
 
+
+
+## Main Takeaways
+
+In Barbari's thesis, she sets out to show that the research warrants a fundamental restructuring of the US counterterrorism strategy, namely in focusing on preventing violence rather than interdicting it. Based on the topics gathered by NLP, could the reader come to a similar conclusion?
+
+
 Resources:
 https://apps.dtic.mil/dtic/tr/fulltext/u2/1069482.pdf
 
