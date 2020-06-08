@@ -5,7 +5,7 @@ The dataset is taken from the thesis of Nabeela Barbari titled `Reconsidering CV
 ![Barplot of main topic words in articles](barplot.png)
 
 ## Topics of Article
-![Topics of articles](topics.png)
+![Topics of articles](nmf_topics.png)
 
 ![termite plt](topicmodel.png)
 
