@@ -10,7 +10,7 @@ The dataset is taken from the thesis of Nabeela Barbari titled **`Reconsidering 
 
 ## Approach
 
-There are many NLP approaches that can be taken on a corpus of this size like sentiment analysis, entity extraction, POS taging, and topic modeling, to name a few. Since this corpus is unlabeled and there are not many data sources available with labeled news documents, sentiment analysis will be tricky and not necessarily accurate (however there are certainly methods of doing so, as shown in <a href="https://towardsdatascience.com/unsupervised-sentiment-analysis-a38bf1906483">this</a> article. 
+There are many NLP approaches that can be taken on a corpus of this size like sentiment analysis, entity extraction, POS tagging, and topic modeling, to name a few. Since this corpus is unlabeled and there are not many data sources available with labeled news documents, sentiment analysis will be tricky and not necessarily accurate (however there are certainly methods of doing so, as shown in <a href="https://towardsdatascience.com/unsupervised-sentiment-analysis-a38bf1906483">this</a> article. 
 
 Since our goal is to understand the main idea of takeaway from each article, topic modeling was our best choice of approaches, and many python libraries offer great tools to aid in topic modeling. The first approach was to use <a href="https://radimrehurek.com/gensim/models/phrases.html">gensim's Phrase</a> class to turn our list of words into bigrams, or 2-word phrases, and from there use some simple list-magic to find the most common bigrams in each article. 
 
@@ -20,14 +20,14 @@ We then tried a slightly more sophisticated approach to topic modeling using <a 
 ## Topics of Article
 
 
-## Topics From Non Negative Matrix Factorization:
+### Topics From Non Negative Matrix Factorization:
 (Chooses 10 topics from the entire corpus)
 
 ![Topics of articles](nmf_topics.png)
 
 ![termite plt](topicmodel.png)
 
-## Topics from Bigram Modeling:
+### Topics from Bigram Modeling:
 (From each of the 100+ aricles, a topic is extracted)
 
 These bigrams have been stemmed, meaning the words you see might appear as stemmed versions of the original word in the document (see `Topc-Modeling.ipynb` for more details on how this was done).
