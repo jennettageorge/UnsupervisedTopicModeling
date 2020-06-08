@@ -42,6 +42,9 @@ In Barbari's thesis, she sets out to show that the research warrants a fundament
 While topic modeling cannot do a perfect job of arriving at the same conclusions as a human after reading text, it does a very good job of summarizing 1,000s of pages of text to aid in coming to similar conclusions. We can see similar words in the AI derived topic sentences that we see in Barbari's thesis, for instance, one topic from the `Topics from Gensim Bigrams` table is "counter_violen effor task_forc new_task stephani_condon". This would lead the reader to assume that the article is talking about an effort being made by a new task force to counter violence.
 
 
+# Next Steps
+
+There is much that can be done to improve this model. One thing I noticed in my research was that there do not exist great sources of labeled data on news articles, in particular news articles surrounding government, international affairs and law enforcement. If one could compile such a data set then we could train our NLP models on this specific data to arrive at better conclusions. Additionally, more time could have been spent in cleaning the data and more sofisticated cleaning methods could have been applied, perhaps like apply POS tagging and using POS rules to help aid in our bigram generation. 
 
 
 Resources:
