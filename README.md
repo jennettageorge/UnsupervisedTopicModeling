@@ -36,6 +36,8 @@ These bigrams have been stemmed, meaning the words you see might appear as stemm
 
 ![HeatMap](heatmap.png)
 
+![HeatMap](heat_corr.png)
+
 # Main Takeaways
 
 In Barbari's thesis, she sets out to show that the research warrants a fundamental restructuring of the US counterterrorism strategy, namely in focusing on preventing violence rather than interdicting it. She also conclused that current CVE efforts lead to 'greater national insecurity' and lead to greater chances of radicalization.
