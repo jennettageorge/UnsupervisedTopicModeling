@@ -34,6 +34,7 @@ These bigrams have been stemmed, meaning the words you see might appear as stemm
 
 ![Bigram Topics](topics.png)
 
+![HeatMap](heatmap.png)
 
 # Main Takeaways
 
