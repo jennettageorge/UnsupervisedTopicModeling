@@ -34,7 +34,11 @@ These bigrams have been stemmed, meaning the words you see might appear as stemm
 
 ![Bigram Topics](topics.png)
 
+The following heatmap shows which articles the top phrases can be found in.
+
 ![HeatMap](heatmap.png)
+
+The following heat map shows the co-occurance of the top phrases found in the articles.
 
 ![HeatMap](heat_corr.png)
 
